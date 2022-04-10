@@ -6,9 +6,9 @@ function App() {
     <div className="App">
       <div className="container">
         <Weather />
-        <p>
+        <footer>
           {" "}
-          This project was coded by Natalia Ortiz and is {""}
+          This project was coded by Natalia Ortiz and is{" "}
           <a
             href="https://github.com/NatCode08/react-weather-app"
             target="_blank"
@@ -16,7 +16,7 @@ function App() {
           >
             Open-source
           </a>
-        </p>
+        </footer>
       </div>
     </div>
   );
