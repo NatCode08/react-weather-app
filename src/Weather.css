@@ -1,0 +1,5 @@
+.Weather {
+  background: radial-gradient(circle, #b2e3ee -73.08%, #b6d5ec 119.47%);
+  border: 1px solid #b2e3ee;
+  border-radius: 10px;
+}
