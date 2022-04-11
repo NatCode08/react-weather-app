@@ -40,7 +40,12 @@ export default function FormattedDate(props) {
   }
   return (
     <div>
-      {day}, {date} {month} {year} {hours}:{minutes}
+      <div>
+        {day}, {date} {month} {year}
+      </div>
+      <div>
+        {hours}:{minutes} is your local time
+      </div>
     </div>
   );
 }
