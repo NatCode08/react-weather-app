@@ -57,24 +57,3 @@ img {
   font-size: 18px;
   color: #687e8e;
 }
-.temperature {
-  margin-top: 20px;
-  font-family: "Inter", sans-serif;
-  font-weight: normal;
-  font-size: 80px;
-  color: #333e46;
-  display: inline;
-}
-.unit {
-  color: #333e46;
-  font-size: 16px;
-  line-height: 80px;
-  margin-top: 6px;
-  padding-left: 6px;
-  vertical-align: top;
-}
-
-.Weather ul {
-  list-style: none;
-  margin-top: 20px;
-}
