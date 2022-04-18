@@ -43,7 +43,7 @@ export default function FormattedDate(props) {
       <div>
         {day}, {date} {month} {year}
       </div>
-      <div>
+      <div className="mb-5">
         {hours}:{minutes} is your local time
       </div>
     </div>

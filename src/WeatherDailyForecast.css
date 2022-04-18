@@ -1,0 +1,10 @@
+.Forecast {
+  color: #333e46;
+}
+.WeatherTemperature-max {
+  color: #333e46;
+}
+.WeatherTemperature-min {
+  color: #687e8e;
+  margin-left: 5px;
+}
