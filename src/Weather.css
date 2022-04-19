@@ -48,10 +48,11 @@ input {
 .Weather h1:first-letter {
   text-transform: capitalize;
 }
-
 img {
-  margin: 0 160px;
+  max-width: 80%;
+  margin: 10px 0px 10px 0px;
 }
+
 .Date {
   text-align: center;
   font-size: 18px;

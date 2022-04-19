@@ -2,3 +2,7 @@ ul {
   list-style: none;
   margin-top: 20px;
 }
+
+.weatherIcon {
+  margin: 0 160px;
+}
